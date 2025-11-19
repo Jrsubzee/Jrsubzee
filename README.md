@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jrsubzee
 - 👀 I’m Interested In Web Design And Development
 - 🤟 I Have Strong Knowledge Of PHP And MySQL, HTML, CSS, JS
-- 🌱 I’m Currently Learning jQuery
+- 🌱 I’m Currently Learning MERN Stack
 - 💞️ I’m Looking To Collaborate With Fellow Developers To Further My Career
 - 📫 You Can Reach Me Via WhatsApp 07035697028
 
